@@ -86,8 +86,8 @@ importers:
         specifier: 2.7.0
         version: 2.7.0
       nuxi:
-        specifier: 3.9.1
-        version: 3.9.1
+        specifier: 3.11.1
+        version: 3.11.1
       nuxt:
         specifier: workspace:*
         version: link:packages/nuxt
@@ -324,8 +324,8 @@ importers:
         specifier: ^2.7.0
         version: 2.7.0
       nuxi:
-        specifier: ^3.9.1
-        version: 3.9.1
+        specifier: ^3.11.1
+        version: 3.11.1
       nypm:
         specifier: ^0.3.3
         version: 0.3.3
@@ -7394,9 +7394,9 @@ packages:
     dependencies:
       boolbase: 1.0.0
 
-  /nuxi@3.9.1:
-    resolution: {integrity: sha512-4R4tcC2uQ5QCnHxyKoX5nZm/YUesCcQM3bZBKYU/8ZWrWjK6aPG6Q5zOQG1aLPkAotyahNsqtSiU/CrRoenEgA==}
-    engines: {node: ^14.18.0 || >=16.10.0}
+  /nuxi@3.11.1:
+    resolution: {integrity: sha512-AW71TpxRHNg8MplQVju9tEFvXPvX42e0wPYknutSStDuAjV99vWTWYed4jxr/grk2FtKAuv2KvdJxcn2W59qyg==}
+    engines: {node: ^16.10.0 || >=18.0.0}
     hasBin: true
     optionalDependencies:
       fsevents: 2.3.3
